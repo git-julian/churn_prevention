@@ -23,10 +23,9 @@ There ist one Notebook available showcase the work to the above questions.
 Furthermore the data used in this analysis can be found as a CSV-File in the same folder. 
 
 ## Results<a name="results"></a>
-The main finings can be found [here] (https://medium.com/@jbraun523_13616/identifying-your-valuable-customers-in-telco-before-it-is-too-late-8c803563403b) 
+The main finings can be found [here](https://medium.com/@jbraun523_13616/identifying-your-valuable-customers-in-telco-before-it-is-too-late-8c803563403b) 
 
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-The credit for the data belongs to BlastChar a Kaggle User who made the dataset avaiable on [Kaggle.]
-https://www.kaggle.com/blastchar/telco-customer-churn
+The credit for the data belongs to BlastChar a Kaggle User who made the dataset avaiable on [Kaggle.](https://www.kaggle.com/blastchar/telco-customer-churn)
